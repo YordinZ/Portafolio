@@ -189,9 +189,9 @@ const Education = () => {
 
         <div className="mt-16 text-center">
           <div className="inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-cyan-500/10 to-fuchsia-500/10 backdrop-blur-xl rounded-full border border-white/10">
-            <span className="text-2xl">🐾</span>
+            <span className="text-2xl">🐍</span>
             <p className="text-white/80 font-medium">
-              Committed to lifelong learning and animal welfare advocacy
+              Committed to lifelong learning and data science
             </p>
           </div>
         </div>

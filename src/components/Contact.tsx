@@ -113,8 +113,8 @@ const Contact = () => {
                 <div className="flex items-center gap-3 justify-center pt-6">
                   <div className="h-px flex-1 bg-gradient-to-r from-transparent to-white/20" />
                   <div className="flex items-center gap-2 px-4 py-2 bg-white/5 rounded-full border border-white/10">
-                    <span className="text-2xl">🐾</span>
-                    <span className="text-white/60 text-sm font-medium">Animal lover & tech enthusiast</span>
+                    <span className="text-2xl">🐍</span>
+                    <span className="text-white/60 text-sm font-medium">Data lover & tech enthusiast</span>
                   </div>
                   <div className="h-px flex-1 bg-gradient-to-l from-transparent to-white/20" />
                 </div>

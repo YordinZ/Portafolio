@@ -31,7 +31,7 @@ const Footer = () => {
           <div className="flex items-center gap-2 text-white/60">
             <span>Made with</span>
             <Heart size={16} className="text-fuchsia-500 animate-pulse" />
-            <span>for animals and technology</span>
+            <span>for data and technology</span>
           </div>
 
           <div className="text-center space-y-2">
